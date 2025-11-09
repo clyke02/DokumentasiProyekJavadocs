@@ -1,5 +1,5 @@
-# Sistem Manajemen Perpustakaan - Tugas JavaDocs
 
+<<<<<<< HEAD
 Proyek Java untuk demonstrasi penggunaan JavaDocs dalam dokumentasi kode. Sistem ini menyediakan fungsionalitas dasar untuk mengelola koleksi buku dalam perpustakaan.
 
 ## 📋 Deskripsi Proyek
@@ -126,3 +126,5 @@ Proyek ini mendemonstrasikan:
 - **Created**: November 9, 2025---
 
 _Dokumentasi ini dibuat sebagai bagian dari tugas JavaDocs - CCDP Semester 7_
+=======
+>>>>>>> 0c1999fb058b799dbeaa0609c80b5894a42a1a6e
