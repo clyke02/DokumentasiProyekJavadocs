@@ -20,5 +20,6 @@ Thumbs.db
 *.tmp
 *.temp
 
-# JavaDoc (will be regenerated)
-# docs/
+# Keep all files - proper structure now
+# index.html (root) = landing page
+# docs/ = complete JavaDoc documentation
