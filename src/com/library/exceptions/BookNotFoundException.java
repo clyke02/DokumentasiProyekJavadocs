@@ -7,9 +7,9 @@ package com.library.exceptions;
  * kode yang memanggilnya. Biasanya dilempar pada operasi pencarian, peminjaman,
  * atau pengembalian buku ketika ID buku yang diminta tidak ada dalam sistem.
  * 
- * @author Tim Developer Perpustakaan
- * @version 1.0
- * @since 2024-11-09
+ * @author Mochammad Rizky Firdaus
+ * @version 1
+ * @since 2025-11-09
  * @see Exception
  */
 public class BookNotFoundException extends Exception {

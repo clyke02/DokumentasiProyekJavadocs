@@ -14,9 +14,9 @@ import java.util.stream.Collectors;
  * <p>Kelas ini menggunakan ArrayList untuk menyimpan koleksi buku dan menyediakan
  * berbagai metode pencarian berdasarkan ID, judul, pengarang, dan kategori.
  * 
- * @author Tim Developer Perpustakaan
- * @version 1.2
- * @since 2024-11-09
+ * @author Mochammad Rizky Firdaus
+ * @version 1
+ * @since 2025-11-09
  * @see Book
  * @see BookNotFoundException
  * @see DuplicateBookException

@@ -121,10 +121,8 @@ Proyek ini mendemonstrasikan:
 
 ## 👥 Tim Developer
 
-- **Author**: Tim Developer Perpustakaan
-- **Version**: 1.0
-- **Created**: November 9, 2024
-
----
+- **Author**: Mochammad Rizky Firdaus
+- **Version**: 1
+- **Created**: November 9, 2025---
 
 _Dokumentasi ini dibuat sebagai bagian dari tugas JavaDocs - CCDP Semester 7_

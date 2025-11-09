@@ -7,9 +7,9 @@ package com.library.exceptions;
  * menambahkan buku dengan ID yang sama dengan buku yang sudah ada dalam sistem.
  * Exception ini membantu menjaga integritas data perpustakaan.
  * 
- * @author Tim Developer Perpustakaan
- * @version 1.0
- * @since 2024-11-09
+ * @author Mochammad Rizky Firdaus
+ * @version 1
+ * @since 2025-11-09
  * @see RuntimeException
  */
 public class DuplicateBookException extends RuntimeException {

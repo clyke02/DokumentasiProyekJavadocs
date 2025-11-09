@@ -5,9 +5,9 @@ package com.library;
  * Kelas ini menyimpan informasi dasar tentang buku seperti judul, pengarang,
  * ISBN, tahun publikasi, dan status ketersediaan.
  * 
- * @author Tim Developer Perpustakaan
- * @version 1.0
- * @since 2024-11-09
+ * @author Mochammad Rizky Firdaus
+ * @version 1
+ * @since 2025-11-09
  */
 public class Book {
     

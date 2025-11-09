@@ -20,9 +20,9 @@ import java.util.Scanner;
  * <li>Mengelola koleksi buku</li>
  * </ul>
  * 
- * @author Tim Developer Perpustakaan
- * @version 1.5
- * @since 2024-11-09
+ * @author Mochammad Rizky Firdaus
+ * @version 1
+ * @since 2025-11-09
  * @see Book
  * @see Library
  * @see BookNotFoundException
